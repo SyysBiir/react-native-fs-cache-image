@@ -6,7 +6,7 @@ class CacheImage extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            source: require('../res/images/no_item.png'),
+            source: null,
             loading: true,
             imageSize: {
                 width: 'auto',
@@ -67,7 +67,7 @@ class CacheImage extends React.Component {
         if (this.props.source) {
             if (this.props.source.uri === null) {
                 this.setState({
-                    source: require('../res/images/no_item.png'),
+                    source: null,
                     loading: false
                 });
                 return;
