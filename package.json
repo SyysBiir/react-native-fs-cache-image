@@ -1,0 +1,29 @@
+{
+  "name": "react-native-fs-cache-image",
+  "version": "1.0.0",
+  "description": "React Native Image Cache on File System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyysBiir/react-native-fs-cache-image.git"
+  },
+  "dependencies": {
+    "react-native-fs": "2.20.0"
+  },
+  "keywords": [
+    "react-native",
+    "cache-image",
+    "image",
+    "cache",
+    "react-native-fs-cache-image"
+  ],
+  "author": "Maxim Boyanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyysBiir/react-native-fs-cache-image/issues"
+  },
+  "homepage": "https://github.com/SyysBiir/react-native-fs-cache-image#readme"
+}
