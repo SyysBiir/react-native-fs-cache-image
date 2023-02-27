@@ -1,6 +1,6 @@
 {
   "name": "react-native-fs-cache-image",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Native Image Cache on File System",
   "main": "index.js",
   "scripts": {
