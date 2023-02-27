@@ -1,9 +1,9 @@
 # react-native-fs-cache-image
 ## React Native Image Cache on File System
 
-react-native-fs-cache-image is a library for caching images in React Native applications. It uses the fs package to cache images locally on the device and allows for faster loading times by avoiding downloading the same image multiple times. The library is optimized for optimal caching performance, and provides a declarative API to make it easier to use. It also supports a variety of image formats, including jpeg, png, gif, and webp.
-
 [![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/package/react-native-fs-cache-image)
+
+react-native-fs-cache-image is a library for caching images in React Native applications. It uses the fs package to cache images locally on the device and allows for faster loading times by avoiding downloading the same image multiple times. The library is optimized for optimal caching performance, and provides a declarative API to make it easier to use. It also supports a variety of image formats, including jpeg, png, gif, and webp.
 
 ## Features
 
