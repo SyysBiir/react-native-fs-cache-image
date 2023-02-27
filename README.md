@@ -1,4 +1,4 @@
-# React Native Image Cache on File System
+# React Native FS Cache Image
 
 [![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/package/react-native-fs-cache-image)
 
