@@ -10,10 +10,15 @@ react-native-fs-cache-image is a library for caching images in React Native appl
 - Uses react-native-fs for file system access
 - Image loading indicator
 
-## Install
-To install the module, run the following in the command line:
+## Installation
+Using npm:
 ```bash
 npm i react-native-fs-cache-image --save
+```
+
+Using yarn:
+```bash
+yarn add react-native-fs-cache-image
 ```
 
 ## Usage
