@@ -22,7 +22,7 @@ yarn add react-native-fs-cache-image
 ```
 
 ## Usage
-
+Using the library is easy. You can use it in your React Native application like this:
 ```js
 import React, { Component } from 'react';
 import { StyleSheet } from 'react-native';
